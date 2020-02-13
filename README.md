@@ -10,7 +10,7 @@
 <a href="http://hood.ie/animals/#low-profile-dog"><img src="https://avatars1.githubusercontent.com/u/1888826?v=3&s=200"
  alt="The Low-Profile Dog Hoodie Mascot" title="The Low-Profile Dog Hoodie Mascot" align="right" /></a>
 
-Hoodie lets you build apps [without _thinking_ about the backend](http://nobackend.org/)
+Adding a sentence to the readme right here!!!!! Hoodie lets you build apps [without _thinking_ about the backend](http://nobackend.org/)
 and makes sure that they work great [independent from connectivity](http://offlinefirst.org/).
 
 This is Hoodie’s main repository. It starts a server and serves the client API.
